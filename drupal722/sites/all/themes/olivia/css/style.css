@@ -54,7 +54,7 @@ a:hover								{ color:#666; list-style: none;}
 h1#vision							{ width: 250px; height: 30px; padding: 0 0 0 5px; background: url(images/vision.png) top right no-repeat; text-indent: -9999px; margin: 27px 0 0 0; 		
 									float: right;  }
 
-h1#logo	a							{ width: 347px; height: 80px; padding: 0 0 0 5px; background: url(images/logo.png) top left no-repeat; text-indent: -9999px; margin: 20px 0 0 0; 		
+h1#logo	a							{ width: 635px; height: 80px; padding: 0 0 0 5px; background-image: url(images/logo.png?1); background-size: cover; text-indent: -9999px; margin: 20px 0 0 0;
 									float: left;  }
 									
 h1#logo	a:hover						{ border-bottom: 0;}
