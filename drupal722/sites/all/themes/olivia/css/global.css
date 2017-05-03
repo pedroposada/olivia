@@ -1,0 +1,16 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+
+div.grid-24 {
+	margin: 0px;
+}
+
+.front-page-slider {
+	margin-top: 20px;
+}
+
+#contact-area input#edit-submit {
+	width: 100px;
+	float: right;
+	margin: 0 85px 0 0;
+}
