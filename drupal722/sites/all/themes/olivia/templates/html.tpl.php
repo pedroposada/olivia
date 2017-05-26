@@ -104,7 +104,7 @@
 		  <?php print $page_bottom; ?>
 
 			<div id="footer">
-				Copyright © <?php print format_date(REQUEST_TIME, 'custom', 'Y') ?> Olivia Lydia. All rights reserved.
+				Copyright © <?php print format_date(REQUEST_TIME, 'custom', 'Y') ?> Olivia Lydia Photography. All rights reserved.
 				<div class="clear"></div>
 			</div>
 
