@@ -88,9 +88,9 @@
 					<li>
 						<a href="/portrait.html">Lifestyle</a>
 					</li>
-<!--					<li>-->
-<!--						<a href="/travel.html">Edibles</a>-->
-<!--					</li>-->
+                    <!--					<li>-->
+                    <!--						<a href="/travel.html">Edibles</a>-->
+                    <!--					</li>-->
 					<li>
 						<a href="/contact.html">Info</a>
 					</li>
