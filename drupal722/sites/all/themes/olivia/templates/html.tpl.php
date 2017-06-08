@@ -86,13 +86,13 @@
 						<a href="/nature.html">Nature</a>
 					</li>
 					<li>
-						<a href="/portrait.html">Portraits</a>
+						<a href="/portrait.html">Lifestyle</a>
 					</li>
+<!--					<li>-->
+<!--						<a href="/travel.html">Edibles</a>-->
+<!--					</li>-->
 					<li>
-						<a href="/travel.html">Edibles</a>
-					</li>
-					<li>
-						<a href="/contact.html">Contact / About</a>
+						<a href="/contact.html">Info</a>
 					</li>
 				</ul>
 				<div class="clear"></div>
