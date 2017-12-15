@@ -92,6 +92,9 @@
                     <!-- <li> -->
                     <!-- <a href="/travel.html">Edibles</a> -->
                     <!-- </li> -->
+                     <li>
+                     <a href="/products.html">Products</a>
+                     </li>
 					<li>
 						<a href="/contact.html">Info</a>
 					</li>
